@@ -10,8 +10,9 @@ h1{
 .c1{
     color:orange;
 }
-section{
+.flax-container{
     display: flex;
+    margin-bottom: 150px;
 }
 .half-width{
     width: 50%;
@@ -35,3 +36,5 @@ section{
         background-repeat: no-repeat;
         background-position: right;
     }
+    
+    
