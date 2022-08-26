@@ -13,6 +13,7 @@ h1{
 section{
     display: flex;
     border: left 20px;
+    margin-bottom: 120px;
 }
 .half-width{
     padding-left:5%;
@@ -28,4 +29,10 @@ section{
     background-image:linear-gradient(orange,red);
     padding: 6px 35px;
     border-radius: 5px;
-}
+    }
+
+    .dream-big{
+        background-image: url(images/dream-bg.png);
+        background-repeat: no-repeat;
+        background-position: right;
+    }
