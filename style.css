@@ -12,14 +12,13 @@ h1{
 }
 section{
     display: flex;
-    border: left 20px;
-    margin-bottom: 120px;
 }
 .half-width{
-    padding-left:5%;
+    width: 50%;
+    padding-left:3%;
 }
 .half-width img {
- width:100% ;
+ width:90% ;
 }
 .link{ 
 
